@@ -1,0 +1,16 @@
+@import url("https://celestialreaver.github.io/BetterDiscord/themes/base/fonts/aveden/aveden.woff2");
+@import url("https://celestialreaver.github.io/BetterDiscord/themes/base/fonts/firacode/FiraCode-Regular.woff2");
+
+:root {
+  --font-family: 'Uni Sans Demo', sans-serif;
+  --font-family: 'Uni Sans Demo', sans-serif;
+}
+
+::placeholder,
+body,
+button,
+input,
+select,
+textarea {
+  font-family: 'Uni Sans Demo', sans-serif;
+}
